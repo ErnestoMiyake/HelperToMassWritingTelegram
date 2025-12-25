@@ -1,14 +1,9 @@
-# Telegram Broadcast Script | Скрипт рассылки Telegram | Skrypt rozsyłania Telegram | Скрипт розсилки Telegram | Telegram-Broadcast-Skript | Telegram 群发脚本
+# Скрипт рассылки Telegram
 
-[English](#english) | [Русский](#русский) | [Polski](#polski) | [Українська](#українська) | [Deutsch](#deutsch) | [中文](#中文)
 
 ---
 
-## English
-
-Script for collecting active Telegram chats and mass messaging.
-
-### 📋 Features
+### 📋 Возможности
 
 - ✅ Сбор чатов с активностью за последние N дней
 - ✅ Сохранение списка чатов в `users.txt`
